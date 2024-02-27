@@ -7,3 +7,7 @@
 [DAY_3] Line plot_특정시점 이후 변화에 대한 분석
 ![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/55ca5bf5-cb6c-4350-942b-7e932cc96ec5)
 ---
+[DAY_4] Slope plot_전후 변화에 대한 비교
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/567ab75c-257a-4c0c-bb3f-07766e84df7c)
+
+---
