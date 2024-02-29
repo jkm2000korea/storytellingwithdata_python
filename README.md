@@ -21,3 +21,6 @@
 
 ![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/4e19b0fa-a835-4000-8f57-fa94fec5bb08)
 
+# [DAY_6] Bar chart_색상, 정렬, 공백
+
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/cea0eade-3be7-4334-94ae-2e1058c90119)
