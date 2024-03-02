@@ -24,3 +24,7 @@
 # [DAY_6] Bar chart_색상, 정렬, 공백
 
 ![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/cea0eade-3be7-4334-94ae-2e1058c90119)
+
+# [DAY_7] Horizental_Bar_Chart_Color_Bold_Text
+
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/5e6f9dc3-586b-4aef-b47b-7a799f544482)
