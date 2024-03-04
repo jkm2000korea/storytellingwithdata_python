@@ -31,8 +31,9 @@
 
 # [DAY_8]_Positive_and_negative_stacked_bar_chart
 
-![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/79dae9fd-2400-479f-8668-c999112ad1da)
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/5e6f9dc3-586b-4aef-b47b-7a799f544482)
 
 # [DAY_9] Power_of_Text_Color_and Selection of words
 
-![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/5e6f9dc3-586b-4aef-b47b-7a799f544482)
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/b7c05bfe-cd95-441e-b0d2-278a1f6f774a)
+
