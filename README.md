@@ -27,11 +27,11 @@
 
 # [DAY_7] Horizental_Bar_Chart_Color_Bold_Text
 
-![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/ac69d8d6-8922-48ac-bf68-15d74e1fbbe7)
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/5e6f9dc3-586b-4aef-b47b-7a799f544482)
 
 # [DAY_8]_Positive_and_negative_stacked_bar_chart
 
-![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/5e6f9dc3-586b-4aef-b47b-7a799f544482)
+![image](https://github.com/jkm2000korea/storytellingwithdata_python/assets/77305773/0f65e363-dd3a-4093-9de7-968136d5fc76)
 
 # [DAY_9] Power_of_Text_Color_and Selection of words
 
